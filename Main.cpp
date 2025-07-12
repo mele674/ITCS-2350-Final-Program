@@ -2,8 +2,8 @@
 //ITCS 2530
 //https://github.com/mele674/ITCS-2350-Final-Program
 // This program will allow users to track car maintenance records, including adding, viewing, searching, editing, and deleting records. Along with file handling to save and load records.
-// My posted
-//AI Tool Used: ChatGPT
+// My posted hobby is cars, video games, and hanging out with friends.
+ //AI Tool Used: ChatGPT
 
 
 #include <iostream>
